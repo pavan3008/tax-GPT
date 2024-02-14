@@ -161,7 +161,4 @@ cython_debug/
 
 # Folders
 final/*
-!final/
-
 final_output/*
-!final_output/
